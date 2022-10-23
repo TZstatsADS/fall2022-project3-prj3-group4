@@ -1,0 +1,10 @@
+Convolutional Neural Network (CNN or ConvNet) is a subtype of Neural Networks (NN) which is mainly used for image applications.
+Convolutional layer reduces the high dimensionality of images without losing important information.
+
+
+For the given dataset, we implement a CNN model described as below.
+The CNN model starts with a first single convolutional layer. Then followed by two pairs of dense block — transition blocks pairs, a third dense block.
+Dense block is a module that connects all layers (with matching feature-map sizes) directly with each other.
+Transition block between two dense blocks acts as a down sample operation, reducing the number of feature maps and the feature maps size to half.
+And then the model is followed by the global average pooling layer to flatten the output feature. 
+Finally, the flattened vector is fed to the dense layer to do classification.
