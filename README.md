@@ -13,7 +13,7 @@ Term: Fall 2022
 	+ Christopher Halim
 	+ team member 5
 
-+ Project summary: In this project, we created CNN predicted model to classify images uing  convolutional layer and transition block for model1.
++ Project summary: In this project, we created CNN predicted model to classify images using convolutional layer and transition block for model1.
 	
 **Contribution statement**: 
 
