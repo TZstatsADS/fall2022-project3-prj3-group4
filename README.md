@@ -9,7 +9,7 @@ Term: Fall 2022
 + Team members
 	+ Shuangxian Li
 	+ Chen Chen
-	+ team member 3
+	+ Fu Wang
 	+ team member 4
 	+ team member 5
 
