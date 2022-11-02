@@ -15,6 +15,8 @@ Term: Fall 2022
 
 
 + Project summary: In this project, we created CNN predicted model to classify images using convolutional layer and transition block for model1.
+And we tried to use conv2D layer, max pooling and  Image Data Generator  in model 2 improve the accuracy and get better performance.
+
 	
 **Contribution statement**: 
 
