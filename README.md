@@ -19,7 +19,7 @@ Term: Fall 2022
 
 Shuangxian Li: For model1, she created CNN predicted model to classify image data, I tried to use convolutional layer to reduce the high dimensionality of images and then used transition block between two dense blocks acts as a down sample operation, reducing the number of feature maps and the feature maps size to half. She searched and collected related paper from [Andreas Veit](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf) to inspire our model design process for model2.
 
-Fu Wang implemented model 1 and model 2 by CNN with the model construction of two convolutional layers and three fully connected layers by using PyTorch. He also implemented functions that take images and labels and turn them into a combined dataset suit for PyTorch. For his model 2 construction: he pre-trained CNN model by 10000 clean labels then used pre-trained model to predict labels for the rest images and then combined them along with the clean labels for full model 2 training with test accuracy of 77.70%
+Fu Wang implemented model 1 and model 2 by CNN with the model construction of two convolutional layers and three fully connected layers by using PyTorch. He implemented functions that take images and labels and turn them into a combined dataset suit for PyTorch. For his model 2 construction: he pre-trained CNN model by 10000 clean labels then used pre-trained model to predict labels for the rest of images and then combined new labels along with the clean labels for full model 2 training with the test accuracy of 77.70%
 
 Chen created another CNN model for part 1 and trained the model to compare with others.
 
