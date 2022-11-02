@@ -24,7 +24,7 @@ Shuangxian Li: For model1, she created CNN model to classify images, she tried t
 
 Fu Wang implemented model 1 and model 2 by CNN with the model construction of two convolutional layers and three fully connected layers by using PyTorch. He implemented functions that take images and labels and turn them into a combined dataset suit for PyTorch. For his model 2 modification: he pre-trained CNN model by 10000 clean labels then used pre-trained model to predict labels for the rest of images and then combined new labels along with the clean labels for full model 2 training with the test accuracy of 77.70%
 
-Chen created a CNN model for part 1 and trained the model to compare with other models. The model is eventually used in the second part of the problem to predict the labels for the last 40000 images.
+Chen created a CNN model for part 1 and trained the model to compare with other models. The model is eventually used in the second part of the problem to predict the labels for the last 40,000 images.
 
 Christopher scheduled regular meetings with the group, checked and trained the models to see which one is the most appropriate, and presented the result of the project to the class.
 
