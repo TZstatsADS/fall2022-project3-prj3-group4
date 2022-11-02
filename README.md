@@ -26,7 +26,7 @@ Chen created another CNN model for part 1 and trained the model to compare with 
 
 Christopher scheduled regular meetings with the group, checked and trained the models to see which one is the most appropriate, and presented the result of the project to the class.
 
-Chaitanya Shah: Build on Shuangxian model 1 to first classify all the noisy images and then build another CNN model to classify all the images. The overall evaluation accuracy did not increase. He tried tweaking hyperparameters for his model as well as Shuangxian' model but the accuracy still did not increase. Therefore, he combined Chen's model 1 with his Model 2 and optimized further to imporve the validation accuracy.
+Chaitanya Shah: Build on Shuangxian model 1 to first classify all the noisy images and then build another CNN model to classify all the images. The overall evaluation accuracy did not increase. He tried tweaking hyperparameters for his model as well as Shuangxian' model but the accuracy still did not increase. Therefore, he combined Chen's model 1 with his Model 2 and optimized further to imporve the validation accuracy. These models were finally used for the presentation and evaluation on the test set.
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
