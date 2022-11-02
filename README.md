@@ -10,7 +10,7 @@ Term: Fall 2022
 	+ Shuangxian Li
 	+ Chen Chen
 	+ Fu Wang
-	+ team member 4
+	+ Christopher Halim
 	+ team member 5
 
 + Project summary: In this project, we created CNN predicted model to classify images uing  convolutional layer and transition block for model1.
@@ -22,6 +22,8 @@ Shuangxian Li: For model1, she created CNN predicted model to classify image dat
 Fu Wang implemented model 1 and model 2 by CNN with the model construction of two convolutional layers and three fully connected layers by using PyTorch. He implemented functions that take images and labels and turn them into a combined dataset suit for PyTorch. For his model 2 modification: he pre-trained CNN model by 10000 clean labels then used pre-trained model to predict labels for the rest of images and then combined new labels along with the clean labels for full model 2 training with the test accuracy of 77.70%
 
 Chen created another CNN model for part 1 and trained the model to compare with others.
+
+Christopher scheduled regular meetings with the group, checked and trained the models to see which one is the most appropriate, and presented the result of the project to the class.
 
 
 
