@@ -36,9 +36,9 @@ proj/
 ├── lib/
 ├── data/
 ├── doc/
-├── ── main.ipynb
-├── ── model1.h5
-├── ── model_fin.h5
+├──── main.ipynb
+├──── model1.h5
+├──── model_fin.h5
 ├── figs/
 └── output/
 ```
