@@ -8,10 +8,10 @@ Term: Fall 2022
 + Team 4
 + Team members
 	+ Shuangxian Li
-	+ Chaitanya Shah
-	+ Christopher Halim 
-	+ Chen Chen
 	+ Fu Wang
+	+ Chen Chen
+	+ Christopher Halim 
+	+ Chaitanya Shah
 
 
 + Project summary: In this project, we created CNN predicted model to classify images using convolutional layer and transition block for model1.
