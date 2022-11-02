@@ -1,2 +1,2 @@
 ### Figs folder
-Functions that generalize the process of taking images and labels into a dataset which is suit for PyTorch
+The figs directory contains the figures. This directory only contains generated files; that is, one should always be able to delete the contents and regenerate them.
